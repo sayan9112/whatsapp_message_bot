@@ -1,0 +1,12 @@
+
+project name: whatsapp_message_bot
+
+abstract: This is  a simple python project. Using this project we can send scheduled
+          whatsapp messages to a person (mentioned in the code), in a particular time.
+ 
+user code input: In the code the user has to input the persons address( whatsapp 
+                 number), the desired message user want to send, and the specific
+                 time the user wants the message to be sent.
+
+THAT'S IT.
+whatsapp_message_bot is ready.               
