@@ -9,4 +9,9 @@ user code input: In the code the user has to input the persons address( whatsapp
                  time the user wants the message to be sent.
 
 THAT'S IT.
-whatsapp_message_bot is ready.               
+whatsapp_message_bot is ready.     
+
+#author: Sayan Mukherjee (kalbhairab)
+#mail: almighty.kalbhairab@gmail.com
+#linkedIn: https://www.linkedin.com/in/sayan-mukherjee-7845421a7/
+#github: github.com/sayan9112 (Personal Website)
